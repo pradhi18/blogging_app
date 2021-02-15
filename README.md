@@ -1,4 +1,4 @@
-# Blogging App
+# Flask Blogging App
 
 >This is a full-featured flask application!
 >Link to the web app : [Flask_Blog](https://blog-flaskwebapp.herokuapp.com)
